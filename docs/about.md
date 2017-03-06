@@ -1,3 +1,5 @@
 ## About Banana
 
-## How To
+## How to install
+
+## Quick start
