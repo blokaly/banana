@@ -1,5 +1,6 @@
 site_name: Blokaly
 pages:
+    - Welcome: index.md
     - English:
       - 'User Guide': 'en/usage.md'
       - 'Tech Details': 'en/tech.md'
