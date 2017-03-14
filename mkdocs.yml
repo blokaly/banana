@@ -1,5 +1,9 @@
 site_name: Blokaly
 pages:
-    - Home: index.md
-    - About: about.md
+    - English:
+      - 'User Guide': 'en/usage.md'
+      - 'Tech Details': 'en/tech.md'
+    - 中文:
+      - '使用指南': 'zh/usage.md'
+      - '相关技术': 'zh/tech.md'
 theme: readthedocs
