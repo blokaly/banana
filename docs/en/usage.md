@@ -23,9 +23,9 @@ Publish
 To issue or publish badges, click the [Publish](https://www.blokaly.com/publish) sidebar menu, then follow the steps to fill in the badge image IPFS hash code, badge name and description and the receiver email.
 If you don't have the IPFS image hash codes, there are three already uploaded ones you can use:
 
-- [Blokaly Golden Cup](https://gateway.ipfs.io/ipfs/QmXNqyypD8PgroZAtk4FhgyWgY8X7NWLPwHF3BVpTwj8vG) `QmXNqyypD8PgroZAtk4FhgyWgY8X7NWLPwHF3BVpTwj8vG`
+- [Blokaly Golden Cup](https://gateway.ipfs.io/ipfs/QmcTof1PEHHnHtBjgyG8SNAjJpqUX32N3fKSdtx9tTntLy) `QmcTof1PEHHnHtBjgyG8SNAjJpqUX32N3fKSdtx9tTntLy`
 - [Blokaly Silver Cup](https://gateway.ipfs.io/ipfs/QmeTpJx1cvc2RVN5dNtZ44KStWuFz8V6aQeU9MvRasMLJ1) `QmeTpJx1cvc2RVN5dNtZ44KStWuFz8V6aQeU9MvRasMLJ1`
-- [Blokaly Bronze Cup](https://gateway.ipfs.io/ipfs/QmcTof1PEHHnHtBjgyG8SNAjJpqUX32N3fKSdtx9tTntLy) `QmcTof1PEHHnHtBjgyG8SNAjJpqUX32N3fKSdtx9tTntLy`
+- [Blokaly Bronze Cup](https://gateway.ipfs.io/ipfs/QmXNqyypD8PgroZAtk4FhgyWgY8X7NWLPwHF3BVpTwj8vG) `QmXNqyypD8PgroZAtk4FhgyWgY8X7NWLPwHF3BVpTwj8vG`
 
 If you have your own image for the badge, then you can click the cloud button at the first step to upload it onto IPFS via [ipfs.pic](https://ipfs.pics/).
 
