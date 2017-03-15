@@ -10,7 +10,7 @@ The idea is borrowed from [OpenBadges](https://openbadges.org/) and [BLOCKCERTS]
 The badges are digitally signed using cryptography by the issuers and persisted onto IPFS, which is characterized as immutable, permanent and distributed network storage.
 So the badge can be treated as a tamper-proof digital certificate and could be publicly verified ans shared across the web.
   
-If you are interested in this project, join us on slack [<img src="/images/slack.png" alt="blokaly​.slack​.com" style="hight: 20px; width: 20px;"/>](https://blokaly.slack.com)<br/>
+If you are interested in this project, join us on slack [<img src="../../images/slack.png" alt="blokaly​.slack​.com" style="hight: 20px; width: 20px;"/>](https://blokaly.slack.com)<br/>
 Any feedbacks or helps are welcomed.
 
 LogIn
