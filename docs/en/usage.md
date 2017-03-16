@@ -6,9 +6,9 @@ Introduction
 ------------
 [Blokaly](https://www.blokaly.com) is a badge issuing and display platform, built based on [IPFS](https://ipfs.io/) and other blockchain systems, such as [Ethereum](https://www.ethereum.org/).
 
-The idea is borrowed from [OpenBadges](https://openbadges.org/) and [BLOCKCERTS](http://www.blockcerts.org/), where users can create, issue and display badges.
+The idea is borrowed from [OpenBadges](https://openbadges.org/) and [BLOCKCERTS](http://www.blockcerts.org/), where any users can create, issue and display badges.
 The badges are digitally signed using cryptography by the issuers and persisted onto IPFS, which is characterized as immutable, permanent and distributed network storage.
-So the badge can be treated as a tamper-proof digital certificate and could be publicly verified ans shared across the web.
+So the badge can be treated as a tamper-proof digital certificate and could be publicly verified and shared across the web.
   
 If you are interested in this project, join us on slack [<img src="../../images/slack.png" alt="blokaly​.slack​.com" style="hight: 20px; width: 20px;"/>](https://blokaly.slack.com)<br/>
 Any feedbacks or helps are welcomed.
@@ -31,7 +31,7 @@ If you have your own image for the badge, then you can click the cloud button at
 
 For demo purpose, you should use `alice@blokaly.com` as the receiver if logged in as `bob@blokaly.com` and vice versa for alice.
  
-After the publish process completed, click the share button to preview the issued badge and copy the URL, which should be something like `https://www.blokaly.com/bao/Qmxxxxxx`.
+After the publish process completed, click the **share** button to preview the issued badge and copy the URL, which should be something like `https://www.blokaly.com/bao/Qmxxxxxx`.
 The long string starts with _Qm_ is the badge certification IPFS hash code.
 
 > **Please note:**<br/> 
