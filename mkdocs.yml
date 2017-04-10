@@ -3,8 +3,10 @@ pages:
     - Welcome: index.md
     - English:
       - 'User Guide': 'en/usage.md'
+      - 'Case Stories': 'en/case.md'
       - 'Tech Details': 'en/tech.md'
     - 中文:
       - '使用指南': 'zh/usage.md'
+      - '应用案例': 'zh/case.md'
       - '相关技术': 'zh/tech.md'
 theme: readthedocs
