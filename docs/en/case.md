@@ -15,5 +15,12 @@ As an intra-organizational implementation, the system is constituted with differ
 - User Account
 
 
+
 ## Inter-organizational Case: Unicorn Advisor
+
+Unicorn Advisor is a HR 'Saas' operator.
+
+`Blokaly Authenticator`, as the prototype, is being adopted to support Unicorn Advisor's inter-organizational authentication module.
+
+Differing from the intra-organizational application, this implementation is backed by distributed ledger technology (DLT).
 
