@@ -2,29 +2,6 @@
 
 (for demo only)
 
-## Intra-organizational Case: Algobet Labs
-
-Algobet Labs is a multi-team-collaborating organization. 
-
-`Blokaly Badge`, as the prototype, is being customized for a solution to Algobet Labs's internal multi-access-right authentication in a secure, smart and flexible manner.
-
-As an intra-organizational implementation, the system is constituted with different types of account which play material roles in the running system.
-
-- Admin Account
-- Team Account
-- User Account
-
-
-
-## Inter-organizational Case: Unicorn Advisor
-
-Unicorn Advisor is a HR 'Saas' operator.
-
-`Blokaly Authenticator`, as the prototype, is being adopted to support Unicorn Advisor's inter-organizational authentication module.
-
-Differing from the intra-organizational application, this implementation is backed by distributed ledger technology (DLT).
-
-
 ## New Horizon's Marketing Platform
 
 New Horizon is an online education and training service provider.
@@ -32,9 +9,9 @@ New Horizon is an online education and training service provider.
 `Blokaly Badge is a born propaganda platform for organizations caring about their goodwill and reputation... Mark Twin, CEO of New Horizon`
 
 ### Scene 1: Performance Marketing
-1. New Horizon opened a corporate account in `Blokaly Badge` for free. Other types and pricing [HERE]().
+1. New Horizon opened a corporate account in `Blokaly Badge` for free.
 2. New Horizon uploaded customized **badge images** into the account management console privately.
-3. New Horizon applied for the role of **issuer** for free in the platform. Premium pricing [HERE]().
+3. New Horizon applied for the role of **issuer** for free in the platform.
 4. New Horizon created a **group badge** using one of the uploaded **badge images**.
 5. New Horizon issued the **group badge** to their existing clients or graduates by email invitation.
 6. New Horizon monitored the console to check the status of **badge issuing**: claimed, rejected, waiting, ...
