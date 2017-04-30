@@ -1,25 +1,25 @@
-#Welcome to Blokaly 
+# Welcome to Blokaly 
 
 (private alpha version)
 
-Introduction
-------------
-[Blokaly](https://www.blokaly.com) is a badge issuing and display platform, built based on [IPFS](https://ipfs.io/) and other blockchain systems, such as [Ethereum](https://www.ethereum.org/).
+## Introduction
+
+[Blokaly](https://www.blokaly.com) is a badge issuing and display platform, built based on Distributed Ledger Technology (DLT), such as [IPFS](https://ipfs.io/) and [Ethereum](https://www.ethereum.org/).
 
 The idea is borrowed from [OpenBadges](https://openbadges.org/) and [BLOCKCERTS](http://www.blockcerts.org/), where any users can create, issue and display badges.
 The badges are digitally signed using cryptography by the issuers and persisted onto IPFS, which is characterized as immutable, permanent and distributed network storage.
 So the badge can be treated as a tamper-proof digital certificate and could be publicly verified and shared across the web.
   
-If you are interested in this project, join us on slack [<img src="../../images/slack.png" alt="blokaly​.slack​.com" style="hight: 20px; width: 20px;"/>](https://blokaly.slack.com)<br/>
+If you are interested in this project, join us on [Blokaly Slack](https://blokaly.slack.com) [<img src="../../images/slack.png" alt="blokaly​.slack​.com" style="hight: 15px; width: 15px;"/>](https://blokaly.slack.com)<br/>
 Any feedbacks or helps are welcomed.
 
-LogIn
------
+## LogIn
+
 At the moment, Blokaly is in private alpha version and under heavy development, so no user registration provided.
 But there are two pre-loaded demo users you can use to login, `bob@blokaly.com` and `alice@blokaly.com`. Password for both users is `12345`.
 
-Publish
--------
+## Publish
+
 To issue or publish badges, click the [Publish](https://www.blokaly.com/publish) sidebar menu, then follow the steps to fill in the badge image IPFS hash code, badge name and description and the receiver email.
 If you don't have the IPFS image hash codes, there are three already uploaded ones you can use:
 
@@ -38,12 +38,12 @@ The long string starts with _Qm_ is the badge certification IPFS hash code.
 > Blokaly is using its own private IPFS cloud except for the badge image for development purpose.<br/> 
 > So you won't be able to retrieve the badge info from the public IPFS cloud. 
  
-Claim
------
+## Claim
+
 Once the badge issued and published onto IPFS, then you can share the badge certification hash code or URL with the receiver.
 The receiver would be able to **claim** the badge by clicking the claim button and login. 
 
-Gallery
--------
+## Gallery
+
 After login, click the [Gallery](https://www.blokaly.com/gallery) sidebar menu to view all the claimed badges.
 To show more details about a badge, click the drop down button at the top right corner of the badge.
