@@ -114,7 +114,7 @@ The recipient identity then can be used to verify the person who is claiming the
 }
 ```
 
-### BAO (Blokaly Asset Omni)
+### <a id="bao"></a>BAO (Blokaly Asset Omni)
 
 | Property | Expected Value | Description |  
 | -------- | ------------- | ----------- |  
