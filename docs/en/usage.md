@@ -26,17 +26,17 @@ Under Settings, you can change the Theme and Language.
 
 Also if you haven't received the verification email, please check your email's spam box or click the `VERIFY ACCOUNT` button to resend the email.
 
-It's also very important to change your Display Name, this will be the name showing up on the badges your issued.
+It's also very important to change your **Display Name**, this will be the name showing up on the badges your issued.
+If you don't want to use the email address, then please change it to your desired one.
 
-The Wall of Achievement link is your public URL, where you can show off all the badges you have received. 
+The **Wall of Achievement** link is your public space, where you can show off all the badges you have received. 
 
 ## Badge
 There are tow sub menus under Badge, Gallery and Request.
 
 Click the [Gallery](https://www.blokaly.com/gallery) to view all the claimed badges. To show more details about a badge, click the drop down button next to the badge name.
 
-Under Request, it will show all the badges you have applied with the current status.
-
+All your badge applications are saved under Request. You can go there to check the current status of every application.
 
 ## Publish
 
