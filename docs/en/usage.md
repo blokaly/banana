@@ -53,7 +53,7 @@ If you have your own image for the badge, you can download Blokaly's [BIX](https
 Then select with type of badges you would like to issue, either an Individual or a Group one. You need to fill in the recipient email for the Individual badge.
 
 After the publish process completed, click the **Share** button to preview the issued badge and copy the URL, which should be something like `https://www.blokaly.com/bao/Qmxxxxxx`.
-The long string starts with _Qm_ is the [BAO](/en/latest/en/tech/#bao) IPFS hash code. Share this link with your recipient if an individual badge or send to a group of people so they can apply for this badge.
+The long string starts with _Qm_ is the [BAO](/en/tech/#bao) IPFS hash code. Share this link with your recipient if an individual badge or send to a group of people so they can apply for this badge.
  
 You can find all the issued badges by clicking the [History](https://www.blokaly.com/publish/history) sidebar menu.
 For a group type of badge, you can see all the applicants of it and take actions `accept`, `reject` or `issue` on each of them.   
@@ -61,6 +61,6 @@ For a group type of badge, you can see all the applicants of it and take actions
 
 ## Apply or Claim
 
-Once the badge issued onto IPFS, then you can share the badge's [BAO](/en/latest/en/tech/#bao) hash code or URL with the intended receiver(s).
+Once the badge issued onto IPFS, then you can share the badge's [BAO](/en/tech/#bao) hash code or URL with the intended receiver(s).
 The receiver would be able to **Claim** (if individual type) or **Apply** (if group type) for the badge by clicking the corresponding button. 
 
