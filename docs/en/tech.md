@@ -22,7 +22,7 @@ BWT consists of two parts separated by a dot (.), which are
 - Signature
 
 For example, 
-```
+```text
 eyJoYXNoIjoiNTdmMTU2MzQyNjdiY2M3MjcwMjc0M2M5M2I0OTY0NmZkN2E5NzI3YjlkN2JmNGZhZDQ5YmQ2OTQyMmI3NDdlNSIsInYiOjF9.EG0nMGSv8QlqT6tKnhVn6nGuqata7Q-0OWLYRVaA8gpGauu0FUe6k-7_L15r7DdxtK6LUiUjrXOFV_bKjTs4pg
 ```
 
