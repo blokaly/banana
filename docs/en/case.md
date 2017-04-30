@@ -6,8 +6,6 @@
 
 New Horizon is an online education and training service provider.
 
-`Blokaly Badge is a born propaganda platform for organizations caring about their goodwill and reputation... Mark Twin, CEO of New Horizon`
-
 ### Scene 1: Performance Marketing
 1. New Horizon opened a corporate account in `Blokaly Badge` for free.
 2. New Horizon uploaded customized **badge images** into the account management console privately.
