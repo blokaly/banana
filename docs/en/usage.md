@@ -1,7 +1,5 @@
 # Welcome to Blokaly 
 
-(private alpha version)
-
 ## Introduction
 
 [Blokaly](https://www.blokaly.com) is a badge issuing and display platform, built based on Distributed Ledger Technology (DLT), such as [IPFS](https://ipfs.io/) and [Ethereum](https://www.ethereum.org/).
@@ -10,7 +8,12 @@ The idea is borrowed from [OpenBadges](https://openbadges.org/) and [BLOCKCERTS]
 The badges are digitally signed using cryptography by the issuers and persisted onto IPFS, which is characterized as immutable, permanent and distributed network storage.
 So the badge can be treated as a tamper-proof digital certificate and could be publicly verified and shared across the web.
   
-If you are interested in this project, join us on [Blokaly Slack](https://blokaly.slack.com) [<img src="../../images/slack.png" alt="blokaly​.slack​.com" style="hight: 15px; width: 15px;"/>](https://blokaly.slack.com)<br/>
+If you are interested in this project, join us on [Slack](https://blokalyscope.slack.com) <img src="../../images/slack.png" alt="https://blokalyscope.slack.com" style="hight: 15px; width: 15px;"/> 
+or follow us on [Twitter](https://twitter.com/blokaly) <img src="../../images/twitter.png" alt="https://twitter.com/blokaly" style="hight: 15px; width: 15px;"/> 
+
+Please following this [link](https://www.blokaly.com/bao/QmQyyW1YaPz4N4ggnrSKuFwesbXNtgBLcBEB2BeXhMBvhF) to register as 
+a member of the Blokaly Community, then you will receive a Slack invite after confirming your email address.
+
 Any feedbacks or helps are welcomed.
 
 ## LogIn
