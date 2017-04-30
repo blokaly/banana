@@ -16,10 +16,9 @@ a member of the Blokaly Community, then you will receive a Slack invite after co
 
 Any feedbacks or helps are welcomed.
 
-## LogIn
+## SignUp or SignIn
 
-At the moment, Blokaly is in private alpha version and under heavy development, so no user registration provided.
-But there are two pre-loaded demo users you can use to login, `bob@blokaly.com` and `alice@blokaly.com`. Password for both users is `12345`.
+Please use an email address to sign up or sign in Blokaly.
 
 ## Publish
 
