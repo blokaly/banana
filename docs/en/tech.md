@@ -93,7 +93,7 @@ _Note_:
 applying **sha256** onto the combined string of email address and the salt (in this case `alice@blokaly.com]nayd5:vV1`).
 The recipient identity then can be used to verify the person who is claiming the issued badge.
 
-### Badge
+### Badge:
 
 | Property | Expected Value | Description |
 | -------- | ------------- | ----------- |
@@ -114,7 +114,7 @@ The recipient identity then can be used to verify the person who is claiming the
 }
 ```
 
-### <a id="bao"></a>BAO (Blokaly Asset Omni)
+### <a id="bao"></a>BAO (Blokaly Asset Omni):
 
 | Property | Expected Value | Description |  
 | -------- | ------------- | ----------- |  
